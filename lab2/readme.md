@@ -34,6 +34,7 @@
 Для мониторинга показателей «здоровья» (S.M.A.R.T.) и температурного режима дисков применялась программа CrystalDiskInfo.
 
 <img width="760" height="701" alt="состояние hdd" src="https://github.com/user-attachments/assets/1f17a3d5-ab54-400d-a88c-ee664fa4e6e8" />
+
 <img width="916" height="707" alt="состояние ssd" src="https://github.com/user-attachments/assets/4eb9d8d0-2ad0-4d5a-9272-424337bbc92e" />
 **Полученные диагностические данные:**
 
