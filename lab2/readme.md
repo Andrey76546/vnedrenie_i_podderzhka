@@ -25,6 +25,8 @@
 | **RND4K Q32T1** | 708.17 | 555.00 | 1.95 | 0.57 |
 | **RND4K Q1T1** | 55.40 | 227.35 | 0.63 | 0.33 |
 <img width="685" height="424" alt="Снимок экрана 2026-06-16 051440" src="https://github.com/user-attachments/assets/43734915-1d6a-47c1-81e8-0910e321ba22" />
+<img width="658" height="392" alt="Снимок экрана 2026-06-16 052145" src="https://github.com/user-attachments/assets/44af8628-9220-45ac-9fb8-c26e289d5098" />
+
 
 
 #### 2. Анализ технического состояния по S.M.A.R.T. (CrystalDiskInfo)
